@@ -1,5 +1,6 @@
 #pragma once
 
+#include <memory>
 #include <string>
 #include <Eigen/Core>
 #include "ImplicitFunction.h"
